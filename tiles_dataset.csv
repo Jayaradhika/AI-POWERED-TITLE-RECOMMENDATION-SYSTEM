@@ -1,0 +1,301 @@
+Tile_ID,Tile_Name,Tile_Type,Room_Type,Colour,Size,Finish,Style,Price_Range,Rating,Usage
+T0001,Modern Black Porcelain (Satin),Floor,Outdoor,Black,80x80 cm,Satin,Modern,Medium,3.3,Both
+T0002,Minimalist Grey Granite (Textured),Both,Outdoor,Grey,60x60 cm,Textured,Minimalist,Medium,3.4,Indoor
+T0003,Minimalist White Marble (Matte),Floor,Kitchen,White,30x30 cm,Matte,Minimalist,Low,4.0,Both
+T0004,Minimalist Beige Travertine (Matte),Wall,Bathroom,Beige,100x100 cm,Matte,Minimalist,High,5.0,Indoor
+T0005,Modern Grey Porcelain (Satin),Floor,Living Room,Grey,80x80 cm,Satin,Modern,Medium,4.9,Outdoor
+T0006,Classic Beige Sandstone (Matte),Floor,Bedroom,Beige,100x100 cm,Matte,Classic,High,4.4,Indoor
+T0007,Classic Grey Granite (Textured),Wall,Kitchen,Grey,60x60 cm,Textured,Classic,Medium,4.0,Outdoor
+T0008,Classic Black Granite (Satin),Wall,Bedroom,Black,100x100 cm,Satin,Classic,Medium,3.8,Outdoor
+T0009,Rustic Blue Mosaic (Matte),Floor,Outdoor,Blue,60x60 cm,Matte,Rustic,High,4.7,Outdoor
+T0010,Minimalist White Ceramic (Glossy),Floor,Outdoor,White,30x30 cm,Glossy,Minimalist,Low,5.0,Indoor
+T0011,Minimalist Black Porcelain (Satin),Both,Living Room,Black,100x100 cm,Satin,Minimalist,High,4.6,Both
+T0012,Classic Brown Ceramic (Matte),Floor,Kitchen,Brown,80x80 cm,Matte,Classic,Low,4.2,Outdoor
+T0013,Minimalist White Porcelain (Satin),Wall,Outdoor,White,80x80 cm,Satin,Minimalist,Medium,4.8,Indoor
+T0014,Modern Grey Porcelain (Matte),Both,Living Room,Grey,30x30 cm,Matte,Modern,Medium,3.5,Outdoor
+T0015,Modern Grey Porcelain (Satin),Wall,Bedroom,Grey,100x100 cm,Satin,Modern,Low,3.4,Both
+T0016,Minimalist White Ceramic (Textured),Wall,Outdoor,White,80x80 cm,Textured,Minimalist,High,3.8,Both
+T0017,Minimalist Brown Wood-look (Textured),Both,Bathroom,Brown,80x80 cm,Textured,Minimalist,Medium,4.8,Outdoor
+T0018,Classic Brown Wood-look (Glossy),Wall,Kitchen,Brown,100x100 cm,Glossy,Classic,Medium,4.8,Outdoor
+T0019,Modern Black Porcelain (Matte),Floor,Living Room,Black,30x30 cm,Matte,Modern,High,3.9,Indoor
+T0020,Rustic White Porcelain (Matte),Both,Living Room,White,60x60 cm,Matte,Rustic,Low,4.4,Outdoor
+T0021,Minimalist Black Porcelain (Satin),Wall,Living Room,Black,100x100 cm,Satin,Minimalist,Low,3.1,Outdoor
+T0022,Minimalist Black Slate (Satin),Wall,Bathroom,Black,30x30 cm,Satin,Minimalist,Low,3.6,Indoor
+T0023,Modern Grey Concrete (Matte),Wall,Outdoor,Grey,100x100 cm,Matte,Modern,Low,4.3,Outdoor
+T0024,Modern Beige Ceramic (Textured),Wall,Kitchen,Beige,80x80 cm,Textured,Modern,High,3.7,Indoor
+T0025,Minimalist Blue Mosaic (Textured),Wall,Bathroom,Blue,80x80 cm,Textured,Minimalist,Low,3.3,Both
+T0026,Minimalist Blue Mosaic (Satin),Both,Kitchen,Blue,80x80 cm,Satin,Minimalist,Medium,4.0,Both
+T0027,Minimalist Black Porcelain (Textured),Floor,Living Room,Black,100x100 cm,Textured,Minimalist,High,4.9,Indoor
+T0028,Minimalist Grey Granite (Glossy),Wall,Bedroom,Grey,80x80 cm,Glossy,Minimalist,High,4.3,Outdoor
+T0029,Minimalist White Ceramic (Matte),Floor,Kitchen,White,30x30 cm,Matte,Minimalist,Low,4.8,Both
+T0030,Modern White Porcelain (Satin),Both,Kitchen,White,100x100 cm,Satin,Modern,Medium,4.6,Both
+T0031,Minimalist White Marble (Textured),Wall,Bathroom,White,100x100 cm,Textured,Minimalist,Medium,4.9,Indoor
+T0032,Classic Brown Terracotta (Matte),Wall,Bathroom,Brown,100x100 cm,Matte,Classic,Low,3.4,Indoor
+T0033,Modern Black Slate (Glossy),Both,Bathroom,Black,30x30 cm,Glossy,Modern,Low,4.1,Both
+T0034,Classic Grey Porcelain (Matte),Wall,Outdoor,Grey,80x80 cm,Matte,Classic,Medium,4.8,Both
+T0035,Modern Beige Ceramic (Glossy),Both,Living Room,Beige,30x30 cm,Glossy,Modern,Low,4.0,Both
+T0036,Minimalist White Ceramic (Textured),Wall,Outdoor,White,60x60 cm,Textured,Minimalist,Low,4.8,Indoor
+T0037,Minimalist Brown Wood-look (Glossy),Wall,Outdoor,Brown,80x80 cm,Glossy,Minimalist,High,5.0,Both
+T0038,Modern Brown Ceramic (Glossy),Both,Bedroom,Brown,30x30 cm,Glossy,Modern,Medium,4.9,Outdoor
+T0039,Minimalist Grey Concrete (Textured),Wall,Bedroom,Grey,80x80 cm,Textured,Minimalist,High,3.6,Outdoor
+T0040,Minimalist White Ceramic (Glossy),Both,Outdoor,White,60x60 cm,Glossy,Minimalist,High,3.8,Outdoor
+T0041,Minimalist White Ceramic (Textured),Wall,Living Room,White,100x100 cm,Textured,Minimalist,Low,3.4,Outdoor
+T0042,Minimalist Blue Porcelain (Satin),Both,Kitchen,Blue,60x60 cm,Satin,Minimalist,Medium,3.9,Both
+T0043,Rustic Blue Mosaic (Matte),Both,Outdoor,Blue,60x60 cm,Matte,Rustic,Medium,4.7,Indoor
+T0044,Classic Black Slate (Satin),Wall,Bathroom,Black,100x100 cm,Satin,Classic,Low,4.0,Indoor
+T0045,Minimalist Black Granite (Satin),Wall,Outdoor,Black,100x100 cm,Satin,Minimalist,Medium,4.1,Both
+T0046,Minimalist Black Granite (Matte),Wall,Bathroom,Black,30x30 cm,Matte,Minimalist,High,3.9,Outdoor
+T0047,Modern Beige Ceramic (Glossy),Wall,Living Room,Beige,100x100 cm,Glossy,Modern,Low,3.1,Outdoor
+T0048,Rustic White Marble (Textured),Wall,Living Room,White,100x100 cm,Textured,Rustic,Low,3.6,Indoor
+T0049,Classic Brown Wood-look (Satin),Both,Kitchen,Brown,60x60 cm,Satin,Classic,High,4.5,Indoor
+T0050,Classic Brown Wood-look (Satin),Floor,Kitchen,Brown,30x30 cm,Satin,Classic,Medium,4.5,Indoor
+T0051,Modern Black Slate (Matte),Floor,Bedroom,Black,60x60 cm,Matte,Modern,Medium,4.3,Outdoor
+T0052,Rustic Black Slate (Matte),Both,Bedroom,Black,100x100 cm,Matte,Rustic,Low,4.1,Indoor
+T0053,Minimalist Black Porcelain (Matte),Floor,Kitchen,Black,100x100 cm,Matte,Minimalist,High,4.6,Outdoor
+T0054,Minimalist Grey Granite (Glossy),Floor,Bathroom,Grey,80x80 cm,Glossy,Minimalist,Low,4.3,Indoor
+T0055,Minimalist White Marble (Satin),Floor,Outdoor,White,100x100 cm,Satin,Minimalist,High,3.8,Indoor
+T0056,Classic Grey Porcelain (Satin),Floor,Bedroom,Grey,100x100 cm,Satin,Classic,Low,4.7,Outdoor
+T0057,Classic Blue Porcelain (Glossy),Both,Kitchen,Blue,60x60 cm,Glossy,Classic,Low,3.7,Both
+T0058,Minimalist Brown Wood-look (Glossy),Floor,Living Room,Brown,100x100 cm,Glossy,Minimalist,Medium,3.8,Both
+T0059,Rustic White Marble (Glossy),Both,Outdoor,White,100x100 cm,Glossy,Rustic,Low,4.4,Both
+T0060,Rustic White Ceramic (Matte),Floor,Living Room,White,60x60 cm,Matte,Rustic,Low,3.6,Both
+T0061,Modern Grey Granite (Glossy),Both,Kitchen,Grey,30x30 cm,Glossy,Modern,High,4.9,Both
+T0062,Rustic Black Slate (Satin),Floor,Outdoor,Black,80x80 cm,Satin,Rustic,Low,4.1,Indoor
+T0063,Modern Black Porcelain (Textured),Floor,Outdoor,Black,30x30 cm,Textured,Modern,Medium,4.9,Outdoor
+T0064,Modern Beige Travertine (Satin),Floor,Bathroom,Beige,80x80 cm,Satin,Modern,Medium,4.9,Indoor
+T0065,Classic Beige Sandstone (Glossy),Wall,Outdoor,Beige,100x100 cm,Glossy,Classic,Medium,3.8,Both
+T0066,Classic Beige Sandstone (Glossy),Floor,Bathroom,Beige,100x100 cm,Glossy,Classic,Low,3.7,Indoor
+T0067,Modern White Marble (Textured),Both,Bathroom,White,30x30 cm,Textured,Modern,Medium,4.4,Outdoor
+T0068,Rustic Beige Travertine (Matte),Both,Outdoor,Beige,30x30 cm,Matte,Rustic,Medium,3.9,Outdoor
+T0069,Minimalist Black Granite (Satin),Floor,Living Room,Black,80x80 cm,Satin,Minimalist,Low,3.5,Indoor
+T0070,Modern Black Granite (Textured),Floor,Outdoor,Black,60x60 cm,Textured,Modern,Medium,3.0,Indoor
+T0071,Rustic Brown Wood-look (Textured),Wall,Outdoor,Brown,80x80 cm,Textured,Rustic,Low,3.5,Both
+T0072,Modern Black Slate (Satin),Floor,Living Room,Black,60x60 cm,Satin,Modern,High,3.9,Indoor
+T0073,Classic Blue Porcelain (Textured),Both,Living Room,Blue,80x80 cm,Textured,Classic,Medium,4.9,Outdoor
+T0074,Minimalist Black Granite (Textured),Wall,Kitchen,Black,100x100 cm,Textured,Minimalist,Medium,3.8,Outdoor
+T0075,Minimalist Black Granite (Glossy),Both,Living Room,Black,30x30 cm,Glossy,Minimalist,Low,3.8,Indoor
+T0076,Minimalist Black Granite (Glossy),Wall,Bathroom,Black,30x30 cm,Glossy,Minimalist,Medium,4.9,Indoor
+T0077,Classic White Marble (Textured),Wall,Bedroom,White,80x80 cm,Textured,Classic,Low,3.3,Indoor
+T0078,Modern Blue Ceramic (Textured),Both,Living Room,Blue,80x80 cm,Textured,Modern,Low,4.5,Indoor
+T0079,Rustic Blue Porcelain (Glossy),Floor,Living Room,Blue,60x60 cm,Glossy,Rustic,Low,3.8,Indoor
+T0080,Minimalist Brown Ceramic (Matte),Floor,Outdoor,Brown,80x80 cm,Matte,Minimalist,Low,5.0,Indoor
+T0081,Modern Brown Wood-look (Matte),Wall,Bathroom,Brown,30x30 cm,Matte,Modern,Low,3.9,Outdoor
+T0082,Rustic White Ceramic (Glossy),Wall,Living Room,White,30x30 cm,Glossy,Rustic,Medium,3.7,Both
+T0083,Classic Beige Ceramic (Matte),Wall,Bathroom,Beige,80x80 cm,Matte,Classic,Medium,4.7,Outdoor
+T0084,Modern Black Slate (Matte),Both,Living Room,Black,30x30 cm,Matte,Modern,High,3.1,Both
+T0085,Modern Brown Terracotta (Matte),Both,Bathroom,Brown,80x80 cm,Matte,Modern,Medium,4.2,Outdoor
+T0086,Classic Blue Ceramic (Matte),Wall,Bathroom,Blue,80x80 cm,Matte,Classic,High,4.5,Indoor
+T0087,Modern Blue Porcelain (Textured),Wall,Bedroom,Blue,80x80 cm,Textured,Modern,Low,4.9,Outdoor
+T0088,Classic White Ceramic (Textured),Floor,Bedroom,White,60x60 cm,Textured,Classic,Low,3.7,Outdoor
+T0089,Rustic Grey Porcelain (Satin),Both,Living Room,Grey,80x80 cm,Satin,Rustic,High,4.2,Both
+T0090,Minimalist Blue Mosaic (Satin),Both,Bathroom,Blue,30x30 cm,Satin,Minimalist,Medium,4.2,Both
+T0091,Modern Grey Granite (Matte),Wall,Outdoor,Grey,60x60 cm,Matte,Modern,Low,4.1,Indoor
+T0092,Minimalist White Marble (Matte),Wall,Living Room,White,60x60 cm,Matte,Minimalist,Medium,4.4,Indoor
+T0093,Modern Beige Travertine (Glossy),Wall,Bathroom,Beige,80x80 cm,Glossy,Modern,Low,3.0,Indoor
+T0094,Rustic White Ceramic (Textured),Both,Bedroom,White,100x100 cm,Textured,Rustic,High,4.1,Outdoor
+T0095,Classic Brown Terracotta (Satin),Both,Bathroom,Brown,80x80 cm,Satin,Classic,High,4.0,Both
+T0096,Modern Black Slate (Matte),Wall,Bathroom,Black,80x80 cm,Matte,Modern,High,3.2,Both
+T0097,Minimalist Brown Terracotta (Satin),Floor,Living Room,Brown,80x80 cm,Satin,Minimalist,Medium,3.7,Indoor
+T0098,Modern White Ceramic (Textured),Wall,Bathroom,White,30x30 cm,Textured,Modern,Low,4.0,Both
+T0099,Classic Blue Porcelain (Textured),Floor,Kitchen,Blue,80x80 cm,Textured,Classic,Medium,3.6,Outdoor
+T0100,Classic Black Slate (Satin),Both,Outdoor,Black,60x60 cm,Satin,Classic,Low,4.9,Indoor
+T0101,Modern Blue Ceramic (Matte),Both,Kitchen,Blue,60x60 cm,Matte,Modern,High,3.2,Outdoor
+T0102,Rustic White Porcelain (Satin),Both,Outdoor,White,100x100 cm,Satin,Rustic,High,4.8,Both
+T0103,Rustic Black Slate (Matte),Floor,Bathroom,Black,60x60 cm,Matte,Rustic,Low,4.4,Both
+T0104,Rustic Beige Sandstone (Textured),Floor,Bedroom,Beige,60x60 cm,Textured,Rustic,High,3.4,Indoor
+T0105,Rustic Black Granite (Matte),Wall,Outdoor,Black,60x60 cm,Matte,Rustic,High,4.9,Indoor
+T0106,Rustic Grey Granite (Matte),Wall,Bedroom,Grey,30x30 cm,Matte,Rustic,High,4.1,Outdoor
+T0107,Minimalist Brown Terracotta (Textured),Floor,Outdoor,Brown,30x30 cm,Textured,Minimalist,Low,3.2,Both
+T0108,Rustic Blue Porcelain (Matte),Both,Living Room,Blue,30x30 cm,Matte,Rustic,Medium,4.5,Outdoor
+T0109,Modern Blue Porcelain (Glossy),Wall,Kitchen,Blue,80x80 cm,Glossy,Modern,High,4.9,Outdoor
+T0110,Minimalist Black Granite (Textured),Both,Living Room,Black,30x30 cm,Textured,Minimalist,Medium,4.6,Both
+T0111,Modern Brown Wood-look (Satin),Both,Bedroom,Brown,60x60 cm,Satin,Modern,Low,4.8,Indoor
+T0112,Minimalist Beige Travertine (Textured),Wall,Bathroom,Beige,30x30 cm,Textured,Minimalist,Medium,4.1,Both
+T0113,Modern White Ceramic (Glossy),Both,Bedroom,White,60x60 cm,Glossy,Modern,Low,4.8,Both
+T0114,Classic Grey Concrete (Satin),Both,Bathroom,Grey,100x100 cm,Satin,Classic,Medium,3.3,Both
+T0115,Modern Brown Terracotta (Satin),Both,Kitchen,Brown,30x30 cm,Satin,Modern,Medium,4.5,Indoor
+T0116,Rustic Brown Ceramic (Glossy),Wall,Kitchen,Brown,60x60 cm,Glossy,Rustic,Medium,4.5,Both
+T0117,Modern Beige Ceramic (Matte),Floor,Kitchen,Beige,30x30 cm,Matte,Modern,High,4.6,Indoor
+T0118,Rustic Brown Wood-look (Matte),Both,Bathroom,Brown,80x80 cm,Matte,Rustic,Medium,3.5,Indoor
+T0119,Rustic Black Slate (Matte),Wall,Bedroom,Black,60x60 cm,Matte,Rustic,High,3.3,Indoor
+T0120,Classic Blue Mosaic (Glossy),Both,Kitchen,Blue,80x80 cm,Glossy,Classic,Low,4.8,Both
+T0121,Modern Beige Travertine (Matte),Floor,Bathroom,Beige,30x30 cm,Matte,Modern,Medium,4.9,Outdoor
+T0122,Rustic Grey Granite (Matte),Floor,Outdoor,Grey,60x60 cm,Matte,Rustic,Medium,3.4,Both
+T0123,Modern White Porcelain (Matte),Both,Bathroom,White,100x100 cm,Matte,Modern,High,3.8,Indoor
+T0124,Modern Brown Terracotta (Textured),Floor,Outdoor,Brown,60x60 cm,Textured,Modern,Low,3.2,Indoor
+T0125,Rustic Beige Ceramic (Matte),Both,Bedroom,Beige,80x80 cm,Matte,Rustic,Medium,4.8,Both
+T0126,Minimalist Grey Porcelain (Satin),Wall,Living Room,Grey,80x80 cm,Satin,Minimalist,Medium,3.1,Indoor
+T0127,Modern White Porcelain (Satin),Wall,Bedroom,White,100x100 cm,Satin,Modern,Medium,4.3,Both
+T0128,Minimalist White Ceramic (Glossy),Wall,Kitchen,White,80x80 cm,Glossy,Minimalist,Low,3.4,Both
+T0129,Minimalist White Ceramic (Matte),Both,Bathroom,White,80x80 cm,Matte,Minimalist,High,3.7,Outdoor
+T0130,Modern Brown Wood-look (Glossy),Wall,Bathroom,Brown,60x60 cm,Glossy,Modern,Low,4.6,Both
+T0131,Classic Beige Ceramic (Textured),Floor,Bedroom,Beige,60x60 cm,Textured,Classic,Medium,4.5,Indoor
+T0132,Rustic Brown Ceramic (Satin),Wall,Bedroom,Brown,80x80 cm,Satin,Rustic,Medium,4.1,Indoor
+T0133,Minimalist Black Slate (Satin),Floor,Living Room,Black,30x30 cm,Satin,Minimalist,High,3.5,Both
+T0134,Rustic Grey Granite (Textured),Wall,Living Room,Grey,80x80 cm,Textured,Rustic,Low,3.4,Indoor
+T0135,Rustic Black Slate (Satin),Wall,Bathroom,Black,100x100 cm,Satin,Rustic,Low,3.3,Outdoor
+T0136,Rustic Beige Ceramic (Satin),Floor,Outdoor,Beige,80x80 cm,Satin,Rustic,Low,4.8,Indoor
+T0137,Classic Black Slate (Glossy),Both,Outdoor,Black,100x100 cm,Glossy,Classic,High,3.5,Outdoor
+T0138,Rustic Grey Porcelain (Textured),Floor,Outdoor,Grey,60x60 cm,Textured,Rustic,Medium,3.7,Indoor
+T0139,Rustic Black Slate (Matte),Floor,Bedroom,Black,60x60 cm,Matte,Rustic,High,4.8,Indoor
+T0140,Rustic Beige Sandstone (Matte),Floor,Bedroom,Beige,30x30 cm,Matte,Rustic,Low,3.5,Outdoor
+T0141,Rustic Blue Ceramic (Textured),Wall,Bedroom,Blue,30x30 cm,Textured,Rustic,Low,4.4,Indoor
+T0142,Classic Grey Concrete (Textured),Floor,Bedroom,Grey,100x100 cm,Textured,Classic,Low,3.5,Indoor
+T0143,Modern Brown Terracotta (Matte),Both,Outdoor,Brown,60x60 cm,Matte,Modern,Medium,3.3,Indoor
+T0144,Rustic Blue Ceramic (Textured),Floor,Living Room,Blue,30x30 cm,Textured,Rustic,High,4.1,Indoor
+T0145,Modern Beige Ceramic (Matte),Wall,Bedroom,Beige,100x100 cm,Matte,Modern,Medium,4.5,Both
+T0146,Minimalist Brown Ceramic (Matte),Floor,Outdoor,Brown,80x80 cm,Matte,Minimalist,High,3.7,Indoor
+T0147,Rustic Grey Porcelain (Matte),Wall,Outdoor,Grey,100x100 cm,Matte,Rustic,Low,3.5,Both
+T0148,Rustic Black Porcelain (Textured),Both,Living Room,Black,60x60 cm,Textured,Rustic,High,4.2,Outdoor
+T0149,Classic White Marble (Glossy),Floor,Living Room,White,100x100 cm,Glossy,Classic,Low,3.8,Indoor
+T0150,Minimalist Grey Concrete (Glossy),Both,Bathroom,Grey,80x80 cm,Glossy,Minimalist,Medium,4.6,Both
+T0151,Classic Blue Ceramic (Textured),Both,Outdoor,Blue,100x100 cm,Textured,Classic,High,4.8,Indoor
+T0152,Classic White Ceramic (Satin),Floor,Kitchen,White,60x60 cm,Satin,Classic,High,4.5,Indoor
+T0153,Rustic White Ceramic (Matte),Wall,Living Room,White,60x60 cm,Matte,Rustic,Low,4.3,Both
+T0154,Modern Beige Sandstone (Matte),Both,Bedroom,Beige,100x100 cm,Matte,Modern,High,5.0,Outdoor
+T0155,Classic Brown Terracotta (Satin),Wall,Outdoor,Brown,80x80 cm,Satin,Classic,Low,3.4,Outdoor
+T0156,Rustic Grey Granite (Matte),Both,Kitchen,Grey,80x80 cm,Matte,Rustic,High,3.6,Outdoor
+T0157,Classic White Porcelain (Textured),Both,Kitchen,White,100x100 cm,Textured,Classic,Low,3.2,Indoor
+T0158,Minimalist Grey Concrete (Satin),Both,Kitchen,Grey,80x80 cm,Satin,Minimalist,High,4.6,Indoor
+T0159,Modern Blue Mosaic (Matte),Floor,Outdoor,Blue,60x60 cm,Matte,Modern,Medium,3.8,Both
+T0160,Classic Beige Ceramic (Satin),Both,Outdoor,Beige,30x30 cm,Satin,Classic,Medium,4.9,Both
+T0161,Rustic Grey Concrete (Textured),Floor,Living Room,Grey,30x30 cm,Textured,Rustic,Medium,4.0,Indoor
+T0162,Rustic Black Granite (Matte),Wall,Living Room,Black,80x80 cm,Matte,Rustic,High,4.0,Indoor
+T0163,Modern Blue Porcelain (Glossy),Wall,Bedroom,Blue,100x100 cm,Glossy,Modern,Medium,3.5,Indoor
+T0164,Modern White Marble (Satin),Floor,Living Room,White,30x30 cm,Satin,Modern,High,4.9,Indoor
+T0165,Rustic Brown Terracotta (Satin),Both,Bathroom,Brown,60x60 cm,Satin,Rustic,Low,5.0,Both
+T0166,Minimalist Black Porcelain (Textured),Floor,Outdoor,Black,80x80 cm,Textured,Minimalist,Low,3.2,Both
+T0167,Modern Beige Ceramic (Glossy),Floor,Bedroom,Beige,80x80 cm,Glossy,Modern,Medium,4.6,Outdoor
+T0168,Modern White Porcelain (Textured),Wall,Living Room,White,30x30 cm,Textured,Modern,High,3.8,Outdoor
+T0169,Classic Beige Sandstone (Textured),Both,Bathroom,Beige,60x60 cm,Textured,Classic,Low,3.4,Both
+T0170,Modern White Marble (Glossy),Wall,Bathroom,White,30x30 cm,Glossy,Modern,High,3.5,Indoor
+T0171,Rustic White Ceramic (Matte),Wall,Living Room,White,80x80 cm,Matte,Rustic,Low,4.1,Both
+T0172,Minimalist Beige Travertine (Matte),Both,Outdoor,Beige,100x100 cm,Matte,Minimalist,Medium,4.1,Indoor
+T0173,Minimalist Black Granite (Textured),Floor,Outdoor,Black,30x30 cm,Textured,Minimalist,Medium,4.0,Outdoor
+T0174,Rustic Brown Terracotta (Satin),Wall,Bathroom,Brown,30x30 cm,Satin,Rustic,Low,4.5,Both
+T0175,Modern Black Porcelain (Satin),Floor,Outdoor,Black,80x80 cm,Satin,Modern,Low,4.4,Outdoor
+T0176,Rustic Black Porcelain (Matte),Both,Outdoor,Black,80x80 cm,Matte,Rustic,Low,4.7,Both
+T0177,Classic Beige Travertine (Glossy),Wall,Bedroom,Beige,100x100 cm,Glossy,Classic,Medium,4.7,Indoor
+T0178,Rustic Black Slate (Textured),Floor,Bathroom,Black,30x30 cm,Textured,Rustic,Low,4.3,Both
+T0179,Minimalist Beige Sandstone (Satin),Wall,Bathroom,Beige,60x60 cm,Satin,Minimalist,High,4.1,Outdoor
+T0180,Minimalist Black Porcelain (Matte),Floor,Outdoor,Black,60x60 cm,Matte,Minimalist,Medium,4.9,Indoor
+T0181,Classic Black Granite (Matte),Wall,Living Room,Black,60x60 cm,Matte,Classic,Medium,3.1,Outdoor
+T0182,Classic Beige Travertine (Glossy),Both,Bathroom,Beige,100x100 cm,Glossy,Classic,Low,3.8,Indoor
+T0183,Modern Grey Concrete (Satin),Both,Bathroom,Grey,80x80 cm,Satin,Modern,Medium,3.0,Outdoor
+T0184,Classic Blue Mosaic (Textured),Floor,Bathroom,Blue,30x30 cm,Textured,Classic,Low,3.3,Both
+T0185,Modern Brown Ceramic (Textured),Wall,Kitchen,Brown,60x60 cm,Textured,Modern,High,3.5,Indoor
+T0186,Minimalist Blue Mosaic (Glossy),Both,Outdoor,Blue,80x80 cm,Glossy,Minimalist,Medium,4.5,Indoor
+T0187,Rustic Grey Granite (Matte),Wall,Bedroom,Grey,30x30 cm,Matte,Rustic,High,3.1,Indoor
+T0188,Classic Black Porcelain (Textured),Both,Kitchen,Black,60x60 cm,Textured,Classic,Low,4.7,Indoor
+T0189,Classic Grey Concrete (Textured),Both,Bathroom,Grey,30x30 cm,Textured,Classic,Low,4.8,Outdoor
+T0190,Minimalist Grey Concrete (Satin),Floor,Living Room,Grey,60x60 cm,Satin,Minimalist,Low,3.4,Indoor
+T0191,Rustic Black Slate (Matte),Floor,Outdoor,Black,60x60 cm,Matte,Rustic,High,5.0,Indoor
+T0192,Classic Brown Terracotta (Textured),Wall,Bathroom,Brown,30x30 cm,Textured,Classic,Low,4.7,Outdoor
+T0193,Minimalist White Porcelain (Matte),Both,Living Room,White,30x30 cm,Matte,Minimalist,Low,4.1,Both
+T0194,Classic Blue Mosaic (Matte),Wall,Kitchen,Blue,30x30 cm,Matte,Classic,Medium,4.1,Indoor
+T0195,Classic Brown Wood-look (Glossy),Wall,Bedroom,Brown,60x60 cm,Glossy,Classic,High,3.4,Outdoor
+T0196,Rustic Beige Ceramic (Matte),Both,Kitchen,Beige,30x30 cm,Matte,Rustic,High,3.2,Both
+T0197,Modern Blue Ceramic (Glossy),Both,Living Room,Blue,60x60 cm,Glossy,Modern,Medium,4.3,Outdoor
+T0198,Rustic Grey Porcelain (Satin),Wall,Bedroom,Grey,60x60 cm,Satin,Rustic,Medium,4.0,Both
+T0199,Minimalist White Marble (Matte),Both,Bedroom,White,60x60 cm,Matte,Minimalist,High,4.3,Indoor
+T0200,Rustic Brown Terracotta (Satin),Both,Kitchen,Brown,30x30 cm,Satin,Rustic,Low,4.6,Both
+T0201,Minimalist Grey Concrete (Matte),Wall,Bathroom,Grey,60x60 cm,Matte,Minimalist,Low,5.0,Indoor
+T0202,Rustic Grey Concrete (Satin),Both,Outdoor,Grey,30x30 cm,Satin,Rustic,Medium,3.1,Indoor
+T0203,Modern Black Slate (Glossy),Both,Bedroom,Black,30x30 cm,Glossy,Modern,Low,3.7,Outdoor
+T0204,Minimalist Black Slate (Glossy),Both,Living Room,Black,100x100 cm,Glossy,Minimalist,Medium,4.5,Outdoor
+T0205,Minimalist Beige Ceramic (Satin),Wall,Bathroom,Beige,80x80 cm,Satin,Minimalist,Medium,4.8,Both
+T0206,Classic Brown Wood-look (Satin),Floor,Bathroom,Brown,60x60 cm,Satin,Classic,Medium,3.4,Outdoor
+T0207,Classic Blue Porcelain (Glossy),Floor,Outdoor,Blue,30x30 cm,Glossy,Classic,Medium,3.2,Indoor
+T0208,Minimalist Blue Porcelain (Glossy),Wall,Living Room,Blue,80x80 cm,Glossy,Minimalist,Low,4.9,Outdoor
+T0209,Modern Grey Granite (Satin),Floor,Kitchen,Grey,100x100 cm,Satin,Modern,Low,3.5,Both
+T0210,Classic Grey Porcelain (Matte),Wall,Bedroom,Grey,30x30 cm,Matte,Classic,Medium,4.3,Indoor
+T0211,Modern White Porcelain (Textured),Floor,Living Room,White,100x100 cm,Textured,Modern,Medium,3.3,Indoor
+T0212,Modern Grey Porcelain (Glossy),Floor,Living Room,Grey,30x30 cm,Glossy,Modern,High,4.7,Both
+T0213,Minimalist Brown Terracotta (Matte),Wall,Living Room,Brown,80x80 cm,Matte,Minimalist,Low,4.9,Indoor
+T0214,Rustic White Porcelain (Matte),Floor,Outdoor,White,80x80 cm,Matte,Rustic,Low,3.2,Both
+T0215,Minimalist Blue Ceramic (Textured),Floor,Bedroom,Blue,100x100 cm,Textured,Minimalist,High,3.0,Outdoor
+T0216,Classic White Ceramic (Glossy),Both,Bathroom,White,60x60 cm,Glossy,Classic,High,4.3,Both
+T0217,Modern Blue Ceramic (Matte),Both,Bedroom,Blue,30x30 cm,Matte,Modern,Low,4.5,Indoor
+T0218,Modern Blue Porcelain (Matte),Both,Bedroom,Blue,30x30 cm,Matte,Modern,High,5.0,Both
+T0219,Classic Beige Ceramic (Matte),Floor,Bedroom,Beige,100x100 cm,Matte,Classic,High,4.1,Both
+T0220,Classic White Ceramic (Glossy),Both,Outdoor,White,100x100 cm,Glossy,Classic,Low,4.2,Outdoor
+T0221,Classic Black Slate (Textured),Wall,Living Room,Black,30x30 cm,Textured,Classic,Low,5.0,Indoor
+T0222,Modern White Ceramic (Satin),Floor,Bathroom,White,100x100 cm,Satin,Modern,Medium,3.8,Outdoor
+T0223,Classic Black Porcelain (Matte),Wall,Bedroom,Black,30x30 cm,Matte,Classic,Low,3.6,Indoor
+T0224,Modern Grey Concrete (Matte),Both,Living Room,Grey,30x30 cm,Matte,Modern,High,4.3,Outdoor
+T0225,Rustic Brown Wood-look (Glossy),Floor,Living Room,Brown,100x100 cm,Glossy,Rustic,Low,3.9,Outdoor
+T0226,Rustic Beige Travertine (Textured),Wall,Bedroom,Beige,60x60 cm,Textured,Rustic,Medium,4.0,Indoor
+T0227,Minimalist Beige Ceramic (Matte),Floor,Outdoor,Beige,60x60 cm,Matte,Minimalist,Low,3.8,Outdoor
+T0228,Rustic Brown Ceramic (Satin),Both,Bedroom,Brown,100x100 cm,Satin,Rustic,High,4.0,Indoor
+T0229,Rustic Grey Porcelain (Glossy),Both,Living Room,Grey,100x100 cm,Glossy,Rustic,High,3.8,Indoor
+T0230,Classic Brown Ceramic (Matte),Wall,Outdoor,Brown,100x100 cm,Matte,Classic,Low,3.6,Both
+T0231,Rustic Brown Ceramic (Textured),Wall,Kitchen,Brown,60x60 cm,Textured,Rustic,Medium,3.8,Indoor
+T0232,Classic Black Granite (Matte),Both,Kitchen,Black,60x60 cm,Matte,Classic,High,4.1,Both
+T0233,Classic White Ceramic (Matte),Wall,Living Room,White,100x100 cm,Matte,Classic,Low,4.3,Both
+T0234,Rustic Brown Terracotta (Matte),Floor,Kitchen,Brown,30x30 cm,Matte,Rustic,Medium,3.4,Outdoor
+T0235,Modern Beige Sandstone (Matte),Floor,Bedroom,Beige,80x80 cm,Matte,Modern,Low,3.6,Both
+T0236,Minimalist Black Porcelain (Matte),Floor,Bedroom,Black,80x80 cm,Matte,Minimalist,Medium,3.9,Outdoor
+T0237,Rustic Brown Wood-look (Satin),Wall,Living Room,Brown,80x80 cm,Satin,Rustic,Low,3.2,Indoor
+T0238,Minimalist Grey Porcelain (Textured),Both,Bedroom,Grey,30x30 cm,Textured,Minimalist,Medium,4.3,Indoor
+T0239,Modern Blue Ceramic (Textured),Both,Outdoor,Blue,60x60 cm,Textured,Modern,High,3.9,Indoor
+T0240,Modern White Porcelain (Satin),Wall,Bathroom,White,100x100 cm,Satin,Modern,Medium,3.7,Both
+T0241,Classic Brown Wood-look (Glossy),Both,Living Room,Brown,100x100 cm,Glossy,Classic,Low,3.5,Indoor
+T0242,Modern Black Granite (Textured),Wall,Kitchen,Black,30x30 cm,Textured,Modern,High,4.3,Outdoor
+T0243,Rustic Beige Ceramic (Textured),Floor,Bedroom,Beige,80x80 cm,Textured,Rustic,Medium,4.3,Both
+T0244,Classic Black Slate (Glossy),Both,Bedroom,Black,80x80 cm,Glossy,Classic,Medium,3.7,Outdoor
+T0245,Classic Black Granite (Glossy),Floor,Living Room,Black,80x80 cm,Glossy,Classic,Medium,3.2,Indoor
+T0246,Modern Black Porcelain (Textured),Wall,Outdoor,Black,80x80 cm,Textured,Modern,High,3.3,Indoor
+T0247,Minimalist Black Granite (Glossy),Wall,Outdoor,Black,100x100 cm,Glossy,Minimalist,Medium,3.5,Both
+T0248,Modern White Marble (Textured),Wall,Outdoor,White,60x60 cm,Textured,Modern,Low,3.5,Indoor
+T0249,Modern Beige Sandstone (Matte),Both,Living Room,Beige,30x30 cm,Matte,Modern,Low,3.6,Outdoor
+T0250,Minimalist Beige Ceramic (Satin),Wall,Bathroom,Beige,60x60 cm,Satin,Minimalist,High,4.1,Indoor
+T0251,Classic Black Porcelain (Glossy),Wall,Bedroom,Black,30x30 cm,Glossy,Classic,High,4.3,Outdoor
+T0252,Classic Blue Ceramic (Satin),Both,Kitchen,Blue,60x60 cm,Satin,Classic,Low,3.6,Both
+T0253,Rustic Beige Ceramic (Satin),Wall,Kitchen,Beige,60x60 cm,Satin,Rustic,Medium,4.6,Indoor
+T0254,Classic Brown Wood-look (Textured),Both,Living Room,Brown,60x60 cm,Textured,Classic,Medium,4.7,Both
+T0255,Modern Grey Concrete (Glossy),Floor,Outdoor,Grey,60x60 cm,Glossy,Modern,Low,3.1,Indoor
+T0256,Modern Black Granite (Satin),Wall,Kitchen,Black,60x60 cm,Satin,Modern,Low,3.2,Outdoor
+T0257,Rustic Brown Terracotta (Matte),Both,Bathroom,Brown,80x80 cm,Matte,Rustic,High,4.1,Outdoor
+T0258,Modern Beige Ceramic (Matte),Both,Bedroom,Beige,30x30 cm,Matte,Modern,High,4.4,Indoor
+T0259,Modern Grey Porcelain (Glossy),Floor,Kitchen,Grey,60x60 cm,Glossy,Modern,Medium,3.2,Indoor
+T0260,Minimalist Black Porcelain (Textured),Floor,Outdoor,Black,80x80 cm,Textured,Minimalist,Low,4.2,Outdoor
+T0261,Rustic Beige Sandstone (Textured),Both,Outdoor,Beige,80x80 cm,Textured,Rustic,High,4.1,Outdoor
+T0262,Rustic Blue Mosaic (Glossy),Wall,Outdoor,Blue,60x60 cm,Glossy,Rustic,High,3.8,Both
+T0263,Classic Brown Terracotta (Satin),Floor,Bedroom,Brown,80x80 cm,Satin,Classic,Medium,3.4,Indoor
+T0264,Modern White Ceramic (Matte),Wall,Outdoor,White,30x30 cm,Matte,Modern,Low,4.6,Indoor
+T0265,Modern Black Porcelain (Glossy),Both,Outdoor,Black,100x100 cm,Glossy,Modern,High,3.3,Outdoor
+T0266,Classic Black Slate (Textured),Both,Living Room,Black,30x30 cm,Textured,Classic,Low,3.9,Indoor
+T0267,Modern Beige Sandstone (Glossy),Floor,Living Room,Beige,30x30 cm,Glossy,Modern,Low,4.6,Indoor
+T0268,Classic White Marble (Matte),Floor,Kitchen,White,80x80 cm,Matte,Classic,High,4.3,Both
+T0269,Minimalist Blue Mosaic (Satin),Floor,Kitchen,Blue,80x80 cm,Satin,Minimalist,Low,3.3,Indoor
+T0270,Minimalist Brown Wood-look (Textured),Floor,Bathroom,Brown,30x30 cm,Textured,Minimalist,Low,4.6,Both
+T0271,Modern White Ceramic (Textured),Wall,Kitchen,White,80x80 cm,Textured,Modern,High,4.9,Both
+T0272,Rustic Black Porcelain (Matte),Floor,Outdoor,Black,60x60 cm,Matte,Rustic,Medium,4.5,Outdoor
+T0273,Rustic Blue Mosaic (Satin),Floor,Living Room,Blue,60x60 cm,Satin,Rustic,High,3.4,Indoor
+T0274,Classic Black Slate (Glossy),Floor,Living Room,Black,60x60 cm,Glossy,Classic,High,3.1,Outdoor
+T0275,Modern Beige Travertine (Textured),Wall,Outdoor,Beige,30x30 cm,Textured,Modern,High,4.0,Outdoor
+T0276,Classic Grey Porcelain (Glossy),Wall,Living Room,Grey,30x30 cm,Glossy,Classic,High,4.1,Outdoor
+T0277,Classic White Marble (Textured),Wall,Kitchen,White,30x30 cm,Textured,Classic,High,4.8,Indoor
+T0278,Classic Grey Concrete (Satin),Both,Living Room,Grey,100x100 cm,Satin,Classic,Low,4.1,Indoor
+T0279,Classic Brown Wood-look (Matte),Wall,Kitchen,Brown,100x100 cm,Matte,Classic,High,3.6,Outdoor
+T0280,Modern Grey Concrete (Textured),Floor,Outdoor,Grey,60x60 cm,Textured,Modern,Medium,3.3,Both
+T0281,Rustic Black Slate (Satin),Both,Bathroom,Black,80x80 cm,Satin,Rustic,Low,3.8,Indoor
+T0282,Modern Brown Ceramic (Satin),Wall,Bathroom,Brown,80x80 cm,Satin,Modern,Low,3.2,Both
+T0283,Minimalist White Ceramic (Satin),Wall,Bedroom,White,100x100 cm,Satin,Minimalist,Low,4.5,Both
+T0284,Minimalist White Porcelain (Textured),Wall,Bedroom,White,80x80 cm,Textured,Minimalist,Low,4.1,Outdoor
+T0285,Rustic Grey Concrete (Glossy),Floor,Living Room,Grey,100x100 cm,Glossy,Rustic,Medium,4.7,Outdoor
+T0286,Minimalist Blue Mosaic (Matte),Wall,Living Room,Blue,60x60 cm,Matte,Minimalist,Low,3.7,Both
+T0287,Rustic Grey Porcelain (Matte),Both,Outdoor,Grey,60x60 cm,Matte,Rustic,High,3.9,Outdoor
+T0288,Rustic Blue Ceramic (Glossy),Wall,Outdoor,Blue,60x60 cm,Glossy,Rustic,High,3.0,Outdoor
+T0289,Minimalist Blue Mosaic (Glossy),Floor,Kitchen,Blue,30x30 cm,Glossy,Minimalist,Medium,4.4,Indoor
+T0290,Rustic Beige Ceramic (Textured),Wall,Bedroom,Beige,80x80 cm,Textured,Rustic,High,3.0,Both
+T0291,Rustic White Marble (Satin),Wall,Outdoor,White,100x100 cm,Satin,Rustic,Medium,5.0,Indoor
+T0292,Minimalist Black Porcelain (Textured),Floor,Kitchen,Black,60x60 cm,Textured,Minimalist,High,4.5,Indoor
+T0293,Rustic Beige Sandstone (Satin),Both,Bathroom,Beige,30x30 cm,Satin,Rustic,Medium,4.3,Indoor
+T0294,Minimalist Blue Porcelain (Satin),Both,Kitchen,Blue,80x80 cm,Satin,Minimalist,High,4.1,Indoor
+T0295,Minimalist White Ceramic (Matte),Wall,Bathroom,White,30x30 cm,Matte,Minimalist,High,3.0,Outdoor
+T0296,Modern Blue Ceramic (Glossy),Both,Outdoor,Blue,80x80 cm,Glossy,Modern,Low,3.1,Both
+T0297,Classic Blue Porcelain (Glossy),Floor,Outdoor,Blue,100x100 cm,Glossy,Classic,Low,3.9,Indoor
+T0298,Classic Black Slate (Textured),Wall,Bedroom,Black,80x80 cm,Textured,Classic,Low,4.6,Outdoor
+T0299,Classic White Marble (Textured),Floor,Kitchen,White,100x100 cm,Textured,Classic,Low,4.9,Outdoor
+T0300,Classic Black Slate (Matte),Both,Bathroom,Black,80x80 cm,Matte,Classic,Medium,3.5,Outdoor
